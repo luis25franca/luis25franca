@@ -1,4 +1,4 @@
-- Olá, sou o Luís França, aluno do 2o ano da licenciatura engenharia de informática na Univeridade do Minho, tenho muito interesse em programação principalmente em linguagens mais de alto nível (p.e. Python e Java).
+- Olá, sou o Luís França, aluno do terceiro ano da licenciatura engenharia de informática na Univeridade do Minho, tenho muito interesse em programação principalmente em linguagens mais de alto nível (p.e. Python e Java).
 
 <!---
 luis25franca/luis25franca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
