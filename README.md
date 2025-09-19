@@ -1,4 +1,4 @@
-- Olá, sou o Luís França, aluno do terceiro ano da licenciatura engenharia de informática na Univeridade do Minho, tenho muito interesse em programação principalmente em linguagens mais de alto nível (p.e. Python e Java).
+- My name is Luís França, I am a 1st year Masters student, studying Computer Science and Engineering at the University of Minho. I am interested in various fields of computer science such as data science, data engineering and web development (mainly back-end and databases). I am a very analytical person, I care that my tasks work properly, as well as the 'how' and 'why' they work.
 
 <!---
 luis25franca/luis25franca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
