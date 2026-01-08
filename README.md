@@ -1,5 +1,5 @@
 ## About me
-- My name is Luís França, I am a 1st year Masters student, studying Computer Science and Engineering at the University of Minho. I am interested in various fields of computer science such as data science, data engineering and web development (mainly back-end and databases). I am a very analytical person, I care that my tasks work properly, as well as the 'how' and 'why' they work.
+- My name is Luís França, I am a 1st year Masters student, studying Computer Science and Engineering at the University of Minho. I am interested in various fields of computer science such as data science, data engineering and web development (mainly back-end and databases).
 - If you want to know more about me you can visit my personal website at www.luisfranca.com
 
 ## Contacts
