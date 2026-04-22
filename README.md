@@ -1,10 +1,13 @@
 ## About me
 - My name is Luís França, I am a 1st year Masters student, studying Computer Science and Engineering at the University of Minho. I am interested in various fields of computer science such as data science, data engineering and web development (mainly back-end and databases).
+- You can check out my full CV [here](./Luís_França_CV.pdf).
 - If you want to know more about me you can visit my personal website at www.luisfranca.com
 
 ## Contacts
+
 - Email: [luis.c.s.franca25@gmail.com](luis.c.s.franca25@gmail.com)
 - LinkedIn: [luís-frança](https://www.linkedin.com/in/luís-frança)
+
 
 ## Skills
 
